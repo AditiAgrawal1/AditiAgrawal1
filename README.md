@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditi Agrawal
 - 👀 I’m interested in many things like learning different Art forms, earning money, having fun with friends
-- 🌱 I’m currently learning Data Science(Specifically Python right now) from Almabetter
+- 🌱 I’m currently learning Data Science from Almabetter
 - 💞️ 
 - 📫 How to reach me - my mail ID is aditiagrawal10000@gmail.com
 
